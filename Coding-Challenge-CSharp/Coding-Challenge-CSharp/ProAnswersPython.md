@@ -1,5 +1,6 @@
 ﻿## Answers to Professional Questions in Python
 
+_Answers provided by Norrick from Ada Cohort_ 😎
 ### Question 1
 
 Write a function that returns all possible partitions of an array from left to right.
