@@ -70,11 +70,8 @@ namespace Coding_Challenge_CSharp
 
 		}
 
-		public static bool Question4(string ipString)
-		{
-			return IPAddress.TryParse(ipString, out _);
-		}
-
+		public static bool Question4(string ipString) => IPAddress.TryParse(ipString, out _);
+		
 		public static string Question5(int n)
 		{
 			List<int> dp = new List<int>(n + 1);
